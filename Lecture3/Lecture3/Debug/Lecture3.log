@@ -1,0 +1,3 @@
+﻿  Lecture3.cpp
+D:\Eren\BTKAkademi\C++_ile_Programlamaya_Giriş\Projects\Lecture3\Lecture3\Lecture3.cpp(41,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lecture3.vcxproj -> D:\Eren\BTKAkademi\C++_ile_Programlamaya_Giriş\Projects\Lecture3\Debug\Lecture3.exe
