@@ -1,0 +1,5 @@
+﻿  Lecture6_6.cpp
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture6_6\Lecture6_6\Lecture6_6.cpp(16,1): warning C4305: '=': truncation from 'double' to 'float'
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture6_6\Lecture6_6\Lecture6_6.cpp(32,23): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture6_6\Lecture6_6\Lecture6_6.cpp(36,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Lecture6_6.vcxproj -> D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture6_6\Debug\Lecture6_6.exe
