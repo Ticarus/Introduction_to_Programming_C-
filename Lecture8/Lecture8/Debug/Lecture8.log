@@ -1,0 +1,23 @@
+﻿  Lecture8.cpp
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture8\Lecture8\Lecture8.cpp(57,42): warning C4305: 'argument': truncation from 'double' to 'U'
+          with
+          [
+              U=float
+          ]
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture8\Lecture8\Lecture8.cpp(8,15): warning C4244: 'return': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture8\Lecture8\Lecture8.cpp(57): message : see reference to function template instantiation 'T max<int,float>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=float
+          ]
+D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture8\Lecture8\Lecture8.cpp(28): warning C4172: returning address of local variable or temporary: object
+  Lecture8.vcxproj -> D:\Eren\BTKAcademy\Introduction_to_Programming_with_C++\Projects\Lecture8\Debug\Lecture8.exe
